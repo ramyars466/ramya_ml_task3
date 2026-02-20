@@ -56,13 +56,4 @@ ramya_ml_task3/
 └── README.md            # Project documentation
 ```
 
-## 👩‍💻 Author
 
-**Ramya R S**  
-AI & ML Engineering Student | Sir MVIT, Bangalore  
-GitHub: [@ramyars466](https://github.com/ramyars466)
-
-## 🏢 Internship
-
-**Prodigy InfoTech — Machine Learning Internship**  
-Task 3: Image Classification using SVM
