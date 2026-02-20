@@ -1,7 +1,7 @@
 # ramya_ml_task3
 # 🐶🐱 Dogs vs Cats Image Classification
 
-This is my **Task 3** submission for the **Prodigy InfoTech Machine Learning Internship**. The task was to build an image classifier that can tell apart dogs from cats — sounds simple, but there's a lot going on under the hood!
+This is my **Task 3** submission for the **Prodigy InfoTech Machine Learning Internship**. The task was to build an image classifier that can tell apart dogs from cats.
 
 ---
 
